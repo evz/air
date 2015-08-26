@@ -18,8 +18,8 @@
         "when": "2.2.1",
         "express": "3.3.4",
         "htmlparser": "1.7.6",
-        "iconv": "2.0.6",
-        "pg": "2.1.0"
+        "iconv": "2.1.5",
+        "pg": "4.4.1"
     },
     "devDependencies": {
         "nodeunit": "0.8.1"
